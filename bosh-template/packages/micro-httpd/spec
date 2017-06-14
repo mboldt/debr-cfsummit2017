@@ -1,7 +1,0 @@
----
-name: micro-httpd
-
-dependencies: []
-
-files:
-- micro-httpd/**/*

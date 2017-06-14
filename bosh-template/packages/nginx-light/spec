@@ -1,0 +1,7 @@
+---
+name: nginx-light
+
+dependencies: []
+
+files:
+- nginx-light/**/*

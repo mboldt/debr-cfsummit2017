@@ -1,0 +1,3 @@
+set -e
+# Code to gather the files goes here
+# Put them in ${BOSH_INSTALL_TARGET}/micro-httpd

@@ -1,0 +1,10 @@
+---
+name: micro-httpd
+
+templates:
+  start: bin/start
+
+packages:
+- micro-httpd
+
+properties: {}

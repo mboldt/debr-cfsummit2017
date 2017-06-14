@@ -1,0 +1,5 @@
+check process micro-httpd
+  with pidfile /var/vcap/sys/run/micro-httpd/web.pid
+  start program /var/vcap/jobs/micro-httpd/bin/start
+  stop program /var/vcap/jobs/micro-httpd/bin/stop
+  group vcap

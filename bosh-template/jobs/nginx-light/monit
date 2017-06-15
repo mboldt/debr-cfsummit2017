@@ -1,4 +1,4 @@
-check process micro-httpd
+check process nginx-light
   with pidfile /var/vcap/sys/run/nginx-light/nginx-light.pid
   start program /var/vcap/jobs/nginx-light/bin/start
   stop program /var/vcap/jobs/nginx-light/bin/stop
